@@ -14,11 +14,13 @@ h1 {
   font-family: 'Courgette', cursive;
   margin-top: 0;
   margin-bottom: 0;
-  padding-top: 100px;
+  padding-top: 150px;
+  font-size: 4rem;
 }
 
 h2 {
   font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
 }
 
 h3 {
@@ -31,12 +33,14 @@ h3 {
 
 .top-cloud {
   position: absolute;
-  right: 550px;
-  top: 150px;
+  right: 505px;
+  top: 190px;
 }
 
 .bottom-cloud {
   position: absolute;
+  right: 1050px;
+  top: 450px;
 }
 
 .middle-container {}
@@ -44,8 +48,8 @@ h3 {
 .bottom-container {}
 
 .first-skill {
-  height: 150px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
 }
 
 .second-skill {
